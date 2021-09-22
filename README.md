@@ -13,7 +13,7 @@ Material Components)
 
 
 
-►Design Credit Food App: https://freebiesui.com/xd-freebies/20-screens-booking-app-figma-sketch-adobexd/
+►Design Credit Trip App: https://freebiesui.com/xd-freebies/20-screens-booking-app-figma-sketch-adobexd/
 
 ►Design Credit Food App: https://github.com/backslashflutter/onboarding_screen
 
