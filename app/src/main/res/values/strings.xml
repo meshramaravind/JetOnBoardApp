@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">JetOnBoardUI</string>
+
+
+    <string name="onbaord_title1">Plan trip to more</string>
+    <string name="onbaord_title2">Hassle free and quick</string>
+    <string name="onbaord_title3">Realtime flight status</string>
+    <string name="onboard_text1">than 90 countries</string>
+    <string name="onboard_text2">flight booking</string>
+    <string name="onboard_text3">to keep you informed</string>
+    <string name="text_book_trip">BOOK YOUR TRIP</string>
+    <string name="text_sign_in">Sign In</string>
+
+    //Food App
+    <string name="onbaord_title1_food">Nearby restaurants</string>
+    <string name="onbaord_title2_food">Select the Favorites Menu</string>
+    <string name="onbaord_title3_food">Good food at a cheap price</string>
+    <string name="onboard_text1_food">You don\'t have to go far to find a good restaurant,
+we have provided all the restaurants that is
+near you</string>
+    <string name="onboard_text2_food">Now eat well, don\'t leave the house,You can
+choose your favorite food only with
+one click</string>
+    <string name="onboard_text3_food">You can eat at expensive restaurants with
+affordable price</string>
+    <string name="text_skip">Skip</string>
+
+
+</resources>
